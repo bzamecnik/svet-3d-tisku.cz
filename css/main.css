@@ -44,11 +44,24 @@ section {
 }
 
 #logo-3dfactories {
-    margin-top: 10%;
+    margin-top: 25%;
+}
+
+#logo-3d-systems {
+    margin-top: -10%;
+}
+
+#logo-massportal {
+    margin-top: 20%;
+    margin-bottom: 10%;
+}
+
+#logo-makerbot {
+    margin-top: -5%;
 }
 
 #logo-be3d {
-    margin-top: 10%;
+    margin-top: 25%;
 }
 
 #logo-fillamentum {
